@@ -2,9 +2,6 @@
   "name": "prompt-engineering",
   "type": "module",
   "version": "1.0.0",
-  "scripts": {
-    "start": "ts-node-esm index.ts"
-  },
   "dependencies": {
     "openai": "^3.3.0"
   },
