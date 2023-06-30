@@ -1,6 +1,6 @@
 # Prompt Engineering
 
-[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers) 강의를 들으면서 TypeScript, Node.js를 사용하여 작성한 예제 코드입니다.
+[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers) 강의를 들으면서 작성한 예제 코드입니다. 자세한 내용은 [이 블로그 포스트](https://hewonjeong.github.io/prompt-engineering)를 참고해주세요.
 
 ## Setup
 
