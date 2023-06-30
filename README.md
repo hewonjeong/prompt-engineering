@@ -1,4 +1,4 @@
-# prompt-engineering
+# Prompt Engineering
 
 [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers) 강의를 들으면서 TypeScript, Node.js를 사용하여 작성한 예제 코드입니다.
 
@@ -15,5 +15,5 @@ cp .env.example .env
 
 ```bash
 pnpm install
-pnpm ts-node summarizing.ts
+pnpm ts-node examples/summarizing.ts
 ```
