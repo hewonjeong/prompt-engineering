@@ -1,4 +1,4 @@
-import { getCompletion } from './ai.js'
+import { getCompletion } from '../ai.js'
 
 const prompt = `
 일관된 스타일로 대답해줘

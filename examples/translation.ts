@@ -1,4 +1,4 @@
-import { getCompletion } from './ai.js'
+import { getCompletion } from '../ai.js'
 
 const userMessages = [
   "La performance du système est plus lente que d'habitude.",

@@ -1,4 +1,4 @@
-import { getCompletion } from './ai.js'
+import { getCompletion } from '../ai.js'
 
 const question = `첫번째 항이 10, 다섯번째 항이 -2인 등차수열에 대하여 -29는 몇 번째 항인지 구하시오.`
 

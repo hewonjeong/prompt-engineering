@@ -1,4 +1,4 @@
-import { getCompletion } from './ai.js'
+import { getCompletion } from '../ai.js'
 
 const story = `
 최근 정부에서 실시한 설문 조사에서 공공 부문 직원들에게 자신이 근무하는 부서에 대한 만족도를 평가해 달라는 요청을 받았습니다. 그 결과 가장 인기 있는 부서는 만족도가 가장 높은 부서로 나타났습니다.
